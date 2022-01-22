@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Kondwani7/Kondwani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kondwani is a self-taught software developer and an aspiring full-stack data scienist.
 
 Here are some ideas to get you started:
 
