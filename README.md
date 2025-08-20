@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Kondwani here
-- 🔭 I’m currently working on web3, NFTs and and full stack AI apps
+- 🔭 I’m currently work as an AI Engineer at KATMarketing, building their Gen AI stack for the Marketing space
 - 👯 I’m looking to collaborate on hackathons, open-source projects and startups
 - 📫 How to reach me:
 - kondwanigideon.ngulube@gmail.com
